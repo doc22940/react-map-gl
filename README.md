@@ -5,6 +5,7 @@
   <a href="https://travis-ci.com/uber/react-map-gl">
     <img src="https://api.travis-ci.com/uber/react-map-gl.svg?branch=master" alt="build" />
   </a>
+<a href="https://app.fossa.io/projects/git%2Bgithub.com%2Fdoc22940%2Freact-map-gl?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdoc22940%2Freact-map-gl.svg?type=shield"/></a>
   <a href="https://npmjs.org/package/react-map-gl">
     <img src="https://img.shields.io/npm/dm/react-map-gl.svg?style=flat-square" alt="downloads" />
   </a>
@@ -78,3 +79,7 @@ This library provides convenient wrappers around initializing and (to some degre
 ### Contribute
 
 See [developer guide](docs/developer-guide.md).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdoc22940%2Freact-map-gl.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdoc22940%2Freact-map-gl?ref=badge_large)
